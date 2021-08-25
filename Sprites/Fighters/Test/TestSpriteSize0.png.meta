@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 7cdc6449f18654248a8e24b6f6b051e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4424086989620480636
+    second: sprite_testUnit_idleAttack0
+  - first:
+      213: -9184402011912867554
+    second: sprite_testUnit_walkNormal0
+  - first:
+      213: -8206852650240309731
+    second: sprite_testUnit_walkAttack0
+  - first:
+      213: 454008051813566491
+    second: sprite_testUnit_jumpAttack0
+  - first:
+      213: 2709775691553184923
+    second: sprite_testUnit_hitMinor
+  - first:
+      213: -3468964154858782439
+    second: sprite_testUnit_attack_leadFist0
+  - first:
+      213: -4611401272284512060
+    second: sprite_testUnit_attack_trailingFist0
+  - first:
+      213: -3157374910325911036
+    second: sprite_testUnit_hitKnockback
+  - first:
+      213: -6684519995437538550
+    second: sprite_testUnit_downed
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_testUnit_idleAttack0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1448
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.49261084, y: 0.053333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857e30a25c7a92c0800000000000000
+      internalID: -4424086989620480636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_walkNormal0
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1448
+        width: 318
+        height: 600
+      alignment: 9
+      pivot: {x: 0.49851632, y: 0.053333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11fc8df7037a8080800000000000000
+      internalID: -9184402011912867554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_walkAttack0
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1448
+        width: 250
+        height: 600
+      alignment: 9
+      pivot: {x: 0.5, y: 0.053333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1604721ff66b1e80800000000000000
+      internalID: -8206852650240309731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_jumpAttack0
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1448
+        width: 342
+        height: 416
+      alignment: 9
+      pivot: {x: 0.4431487, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c38deae5fc4600800000000000000
+      internalID: 454008051813566491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_hitMinor
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1448
+        width: 412
+        height: 600
+      alignment: 9
+      pivot: {x: 0.4368932, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c140c62ae0b9520800000000000000
+      internalID: 2709775691553184923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_attack_leadFist0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 852
+        width: 490
+        height: 596
+      alignment: 9
+      pivot: {x: 0.4, y: 0.0704698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91144130b73cbdfc0800000000000000
+      internalID: -3468964154858782439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_attack_trailingFist0
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 852
+        width: 428
+        height: 596
+      alignment: 9
+      pivot: {x: 0.3317757, y: 0.053691275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c082b0a9f20100c0800000000000000
+      internalID: -4611401272284512060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_hitKnockback
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 852
+        width: 388
+        height: 324
+      alignment: 9
+      pivot: {x: 0.31958762, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4021b4f5f30ce24d0800000000000000
+      internalID: -3157374910325911036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_testUnit_downed
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 852
+        width: 624
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0.101265825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0323f1fa70db33a0800000000000000
+      internalID: -6684519995437538550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
