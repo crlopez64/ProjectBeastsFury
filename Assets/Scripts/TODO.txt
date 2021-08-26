@@ -1,0 +1,11 @@
+TODO:
+
+-> Forward Dash (double tap forward)
+-> Back Dash (double tap backward)
+-> Run (Hold forward when dashing)
+-> Pop Up constant (every Pop Up will have the same velocity.y)
+-> Knockback when Popped Up
+	-> If (enemy.PoppedUp)
+		-> Jump a tiny bit into the air, move back a little bit
+
+? Pushback if too close to the enemy?
